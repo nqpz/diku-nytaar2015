@@ -1,0 +1,35 @@
+* Indkøbsregneark
+
+|                   | Kartoffelsuppe | Brød | Steg | Bagte kartofler | Kryddersmør | Bønnesalat | Tiramisu | Kransekage | Total | Enhed |
+|-------------------+----------------+------+------+-----------------+-------------+------------+----------+------------+-------+-------|
+| Smør              |            100 |      |      |                 |         500 |            |      250 |        300 |  1150 | g     |
+| Zittauerløg       |             10 |      |      |                 |             |            |          |            |    10 | stk.  |
+| Små kartofler     |              4 |      |      |                 |             |            |          |            |     4 | kg    |
+| Porrer            |             16 |      |      |                 |             |            |          |            |    16 | stk.  |
+| Grøntsagsbouillon |              6 |      |      |                 |             |            |          |            |     6 | liter |
+| Fløde             |              8 |      |      |                 |             |            |       12 |            |    20 | dl    |
+| Bacontern         |           1500 |      |      |                 |             |       3000 |          |            |  4500 | g     |
+| Flutes-lignende   |                |   15 |      |                 |             |            |          |            |    15 | stk.  |
+| Steg af en art    |                |      |    9 |                 |             |            |          |            |     9 | kg    |
+| Små bagekartofler |                |      |      |              70 |             |            |          |            |    70 | stk.  |
+| Olivenolie        |                |      |      |               3 |           2 |            |          |            |     5 | dl    |
+| Purløg            |                |      |      |                 |           1 |            |          |            |     1 | stk.  |
+| Frisk timian      |                |      |      |                 |           1 |            |          |            |     1 | stk.  |
+| Frisk salvie      |                |      |      |                 |           1 |            |          |            |     1 | stk.  |
+| Frisk rosmarin    |                |      |      |                 |           1 |            |          |            |     1 | stk.  |
+| Grønne bønner     |                |      |      |                 |             |          7 |          |            |     7 | kg    |
+| Hvidløg           |                |      |      |                 |             |          7 |          |            |     7 | stk.  |
+| Hvedemel          |                |      |      |                 |             |            |     1000 |        500 |  1500 | g     |
+| Bagepulver        |                |      |      |                 |             |            |       10 |            |    10 | tsk   |
+| Sukker            |                |      |      |                 |             |            |      750 |            |   750 | g     |
+| Mælk              |                |      |      |                 |             |            |      9.5 |            |   9.5 | dl    |
+| Vanille           |                |      |      |                 |             |            |       16 |            |    16 | tsk   |
+| Mascarpone        |                |      |      |                 |             |            |     1000 |            |  1000 | g     |
+| Flormelis         |                |      |      |                 |             |            |      600 |        200 |   800 | g     |
+| Creme fraiche     |                |      |      |                 |             |            |       20 |            |    20 | dl    |
+| Husblas           |                |      |      |                 |             |            |       16 |            |    16 | blade |
+| Masala            |                |      |      |                 |             |            |       16 |            |    16 | spsk  |
+| Kakaopulver       |                |      |      |                 |             |            |        1 |            |     1 | stk   |
+| Marcipan          |                |      |      |                 |             |            |          |       1500 |  1500 | g     |
+| Mandelessens      |                |      |      |                 |             |            |          |        1.5 |   1.5 | tsk   |
+#+TBLFM: $10=vsum($2..$9)
