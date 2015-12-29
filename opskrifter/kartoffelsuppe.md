@@ -8,7 +8,7 @@ Fra http://www.arla.dk/opskrifter/kartoffelsuppe-med-porrer/
 ### Suppe
 
 + 100 g smør
-+ 10 grofthakkede zittauerløg
++ 10 grofthakkede almindelige løg
 + 4 kg kartofler i små tern
 + 16 porrer i ringe (den hvide del)
 + 6 liter grøntsagsbouillon

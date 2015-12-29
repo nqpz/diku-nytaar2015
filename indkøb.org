@@ -3,7 +3,7 @@
 |                   | Kartoffelsuppe | Brød | Steg | Bagte kartofler | Kryddersmør | Bønnesalat | Tiramisu | Kransekage | Total | Enhed |
 |-------------------+----------------+------+------+-----------------+-------------+------------+----------+------------+-------+-------|
 | Smør              |            100 |      |      |                 |         500 |            |      250 |        300 |  1150 | g     |
-| Zittauerløg       |             10 |      |      |                 |             |            |          |            |    10 | stk.  |
+| Alm. løg          |             10 |      |      |                 |             |            |          |            |    10 | stk.  |
 | Små kartofler     |              4 |      |      |                 |             |            |          |            |     4 | kg    |
 | Porrer            |             16 |      |      |                 |             |            |          |            |    16 | stk.  |
 | Grøntsagsbouillon |              6 |      |      |                 |             |            |          |            |     6 | liter |
